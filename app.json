@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "HabitosEstudioApp",
+    "slug": "habitos-estudio-app",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
